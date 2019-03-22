@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -83,52 +83,53 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Image Recognition
-        link: "#hook"
         tagline: "Built a convolutional neural network using a small dataset of time-series dopamine spikes among population ensembles of neurons by employing a pre-trained CNN through Tensorflow. Transformed dataset into heatmaps and wavelets, and wrote an algorithm with Python and OpenCV using distortion correction, image rectification, color transforms, and gradient thresholding. Enhanced this pipeline with Keras, using latest deep learning architecture (VGG16) that is extremely accurate and lean ; essential for our small dataset."
 
       - title: Web Development, and Computer Building
-        link: "#"
         tagline: "Re-built a laboratory’s website in full-stack and built an inexpensive deep learning computer for extensive deep learning and data processing."
 
       - title: Self-Learned subjects through reading and online lectures 
-        link: "#"
         tagline: "Relevant coursework includes: Probability, Statistics, Design of Algorithms, Linux, R, Bioinformatics, Windows PowerShell, Tensorflow and Keras, Cancer Genomics, Financial Analysis, Deep Learning: GANs and Variational Autoencoders, R Programming, Data visualization, Candlestick trading, Blockchain, Crypto"
         
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+Professional skills:
+    title: Skills &amp; Proficiency
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    toolset:
+      - Experience in developing advanced models such as multivariate regression, neural networks, support vector machines, Random Forest, Bayesian Analysis, decision trees, ANOVA, etc.
+        
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - Well-honed analytical problem-solving ability coupled with business acumen to structure problems, deliver solutions and communicate insights
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        
 
-skills:
+      - Entrepreneurial, driven spirit; strong ownership mindset with a focus on delivering high-quality end products
+
+       
+
+      - Polished interpersonal and communication style with the ability to effectively communicate, persuade, and clearly explain complex technical insights to a wide variety of audiences
+
+      
+
+      - Comfortable working with imperfect data, curious, inquisitive, proactive, organized, methodical, agentic
+
+
+      - Affinity for using substantiated data to identify and solve problems, tendency for over-inclusiveness and interdisciplinary approaches, strong communication and writing skills, exemplary multitasker, meticulous and detail-focused
+
+
+      - name: 
+
+Technical skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python, Tensorflow, Keras, and associated ML packages
         level: 80%
 
-      - name: Deep Learning (CNN, LSTM), Natural Language Processing (Word2Vec), anomaly detection, Autoencoders, and GANs
-        level: 80%%
+      - name: Deep Learning
+        level: 80%
 
       - name: MS Office Suite esp. Excel and Powerpoint
         level: 98%
