@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: Bengali
-        level: Proficient
+        level: Fluent
 
    
 
@@ -101,7 +101,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, Tensorflow, Keras, and associated ML packages
+      - name: Python, Tensorflow, Keras
         level: 80%
 
       - name: Deep Learning
@@ -120,4 +120,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Adnan  Khalid</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="prettypositron.com" target="_blank" rel="nofollow">Adnan  Khalid</a>
