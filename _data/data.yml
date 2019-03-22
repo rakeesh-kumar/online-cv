@@ -40,7 +40,7 @@ sidebar:
       - item: Trivia
         link:
 
-      - item: Socializing
+      - item: Reading
         link:
 
 career-profile:
@@ -60,48 +60,25 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Machine Learning Researcher
+      time: 2018 - 2019
+      company: Division of Behavioral Medicine, Columbia University Medical Center
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+       
 
-          - Bullet point
-          - Bullet point
+          - Using machine learning within the context of neural circuits by creating generative adversarial networks as well as pre-trained convolutional neural networks to illuminate the neural circuit governing reinforcement learning under state uncertainty. 
+          - Rebuilt the lab’s website in full-stack: 99/100 Google PageSpeed Score, Syntax highlighting powered by Rouge, LaTeX math blocks, powered by KaTeX, built-in icons for social media, simple and semantic HTML, structured Data for core entities, Google Analytics and Google Fonts support, Disqus comments
+          - Built inexpensive supercomputer for extensive deep learning and data processing utilizing price trends
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Physical Cosmology Researcher
+      time: 2017 - 2018
+      company: Division of Observational Cosmology and Particle Physics, NYU
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        
 
-          - Bullet point
-          - Bullet point
+          - Constructing Bayesian hierarchical models of high-energy transient phenomena (black holes, neutron stars) through X-ray data analysis as well as stellar spectroscopy and exoplanet measurement and discovery using a Pythonic pipeline for time series analysis such as Fourier analysis and (quasi-)periodicity detection.
+          - Primarily investigated Boyajian’s Star (Tabetha’s Star), which is known for aperiodic dips in luminosity, by modeling these dips as eclipses or planet transits through my hypothesis centered around it being a brown dwarf
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
@@ -111,26 +88,18 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Image Recognition
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Built a convolutional neural network using a small dataset of time-series dopamine spikes among population ensembles of neurons by employing a pre-trained CNN through Tensorflow. Transformed dataset into heatmaps and wavelets, and wrote an algorithm with Python and OpenCV using distortion correction, image rectification, color transforms, and gradient thresholding. Enhanced this pipeline with Keras, using latest deep learning architecture (VGG16) that is extremely accurate and lean ; essential for our small dataset."
 
-      - title: DevStudio
+      - title: Web Development, and Computer Building
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Re-built a laboratory’s website in full-stack and built an inexpensive deep learning computer for extensive deep learning and data processing."
 
-      - title: Tempo
+      - title: Self-Learned subjects through reading and online lectures 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        tagline: "Relevant coursework includes: Probability, Statistics, Design of Algorithms, Linux, R, Bioinformatics, Windows PowerShell, Tensorflow and Keras, Cancer Genomics, Financial Analysis, Deep Learning: GANs and Variational Autoencoders, R Programming, Data visualization, Candlestick trading, Blockchain, Crypto"
+        
 publications:
     title: Publications
     intro: |
@@ -155,23 +124,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, Tensorflow, Keras, and associated ML packages
+        level: 80%
+
+      - name: Deep Learning (CNN, LSTM), Natural Language Processing (Word2Vec), anomaly detection, Autoencoders, and GANs
+        level: 80%%
+
+      - name: MS Office Suite: esp. Excel and Powerpoint
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS; Data visualization
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R, Linux, bioinformatics packages
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Probability and Statistics
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Adnan  Khalid</a>
