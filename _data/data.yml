@@ -66,11 +66,9 @@ experiences:
       company: Division of Observational Cosmology and Particle Physics, NYU
       details: |
         
-      2019
           - Detecting stars during the day turning tens of thousands of short-exposure digital photographs into one long exposure photograph, adjusting other parameters in post-processing. Writing software to find star in every exposure, shift all exposures to place star at the same location, and use median-combine (or other method) on the shifted exposures to make an extremely sensitive exposure
           - Using Kepler as a thermometer: dark currents produce 9.5% of the noise on lightcurves on the Kepler spacecraft, which is far more precise in flux detection and SNR than the actual temperature readings of instruments on the spacecraft. The goal of the project is to be able to deduce temperature fluctuations of the CCD photoreceptors from analysis of noise on the lightcurves of tens of thousands of stars.
           
-     2017-2018
           - Constructing Bayesian hierarchical models of high-energy transient phenomena (black holes, neutron stars) through X-ray data analysis as well as stellar spectroscopy and exoplanet measurement and discovery using a Pythonic pipeline for time series analysis such as Fourier analysis and (quasi-)periodicity detection.
           - Primarily investigated Boyajian’s Star (Tabetha’s Star), which is known for aperiodic dips in luminosity, by modeling these dips as eclipses or planet transits through my hypothesis centered around it being a brown dwarf
           
