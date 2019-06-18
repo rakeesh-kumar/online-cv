@@ -33,11 +33,11 @@ sidebar:
 
    
 
-    Portfolio:
-      - item: Teaching Website
+    Interests:
+      - item: Teaching
         link: adnankhalid.com/teaching
 
-      - item: Lab Website
+      - item: Web Design
         link: prettypositron.github.io/ncl2/about/#_navigation
 
       - item: Reading
