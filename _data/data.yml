@@ -50,7 +50,7 @@ career-profile:
       Former Scientific Researcher in Machine Learning looking to enter the private sector and finance world. Broad, interdisciplinary experience in research ranging from biomedical to cosmological. Interested primarily in the intersection of medicine, finance, and technology. 
 
 education:
-    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in Economics
+    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsAAA
       university: New York University
       time: 2020 - 2024
       details: |
@@ -71,6 +71,7 @@ experiences:
           
           - Constructing Bayesian hierarchical models of high-energy transient phenomena (black holes, neutron stars) through X-ray data analysis as well as stellar spectroscopy and exoplanet measurement and discovery using a Pythonic pipeline for time series analysis such as Fourier analysis and (quasi-)periodicity detection.
           - Primarily investigated Boyajian’s Star (Tabetha’s Star), which is known for aperiodic dips in luminosity, by modeling these dips as eclipses or planet transits through my hypothesis centered around it being a brown dwarf
+          - Second
           
          
     - role: Machine Learning Researcher
