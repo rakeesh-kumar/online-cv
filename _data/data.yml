@@ -50,7 +50,7 @@ career-profile:
       Machine Learning Researcher and Private Tutor for 20+ subjects/courses interested primarily in the intersection of finance, technology, and mathematics looking to enter the private sector and finance world.
 
 education:
-    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsABC
+    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsABCDE
       university: New York University
       time: 2020 - 2024
       details: |
@@ -101,22 +101,6 @@ experiences:
           - SAT Math I Subject Test - 710/800
 
 
-projects:
-    title: Projects
-    intro: >
-
-    assignments:
-      - title: Image Recognition
-        tagline: "Built a convolutional neural network using a small dataset of time-series dopamine spikes among population ensembles of neurons by employing a pre-trained CNN through Tensorflow. Transformed dataset into heatmaps and wavelets, and wrote an algorithm with Python and OpenCV using distortion correction, image rectification, color transforms, and gradient thresholding. Enhanced this pipeline with Keras, using latest deep learning architecture (VGG16) that is extremely accurate and lean ; essential for our small dataset."
-
-      - title: Web Development, and Computer Building
-        tagline: "Re-built a laboratory’s website in full-stack and built an inexpensive deep learning computer for extensive deep learning and data processing."
-
-      - title: Self-Learned subjects through reading and online lectures 
-        tagline: "Relevant coursework includes: Probability, Statistics, Design of Algorithms, Linux, R, Bioinformatics, Windows PowerShell, Tensorflow and Keras, Cancer Genomics, Financial Analysis, Deep Learning: GANs and Variational Autoencoders, R Programming, Data visualization, Candlestick trading, Blockchain, Crypto"
-        
-
-   
 
 skills:
     title: Skills &amp; Proficiency
@@ -141,4 +125,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="prettypositron.com" target="_blank" rel="nofollow">Rakeesh Kumar</a>
+    Designed with <i class="fas fa-heart"></i> by Rakeesh Kumar
