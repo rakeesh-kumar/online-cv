@@ -50,7 +50,7 @@ career-profile:
       Machine Learning Researcher and Private Tutor for 20+ subjects/courses interested primarily in the intersection of finance, technology, and mathematics looking to enter the private sector and finance world.
 
 education:
-    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsABCDE
+    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsABCDEFG
       university: New York University
       time: 2020 - 2024
       details: |
@@ -100,6 +100,25 @@ experiences:
           - SAT Math II Subject Test - 800/800
           - SAT Math I Subject Test - 710/800
 
+
+    - role: Mathematics Department TA
+      time: September 2020 - November 2020
+      company: New Jersey Institute of Technology Mathematics Department
+      details: |
+       
+
+          - Selected as one of eight tutors to aid college students in Pre-Calculus, Calculus I-III, Differential Equations, Probability & Statistics, and Linear Algebra
+
+
+    - role: Mathematics Department TA
+      time: January 2020 - June 2020
+      company: New Jersey Institute of Technology Machine Learning Laboratory
+      details: |
+       
+
+          - Research assistant for Dr. Jiaxin Du at New Jersey Institute of Technology
+          - Analyzed and modeled rate of linguistic conformity between sets of text through building probabilistic frameworks implementing machine learning and differential equations algorithms
+         
 
 
 skills:
