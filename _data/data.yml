@@ -47,21 +47,19 @@ career-profile:
     title: Career Profile
     summary: |
     
-      Former Scientific Researcher in Machine Learning looking to enter the private sector and finance world. Broad, interdisciplinary experience in research ranging from biomedical to cosmological. Interested primarily in the intersection of medicine, finance, and technology. 
+      Machine Learning Researcher and Private Tutor for 20+ subjects/courses interested primarily in the intersection of finance, technology, and mathematics looking to enter the private sector and finance world.
 
 education:
-    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in Economics
+    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsA
       university: New York University
       time: 2020 - 2024
       details: |
-       -Physics TA for Electricity & Magnetism I and Quantum Mechanics I
-       -NYU Cross-Examination Debate Team: won awards at 7 tournaments including Harvard, Yale, & Princeton
+
 
 
 
 experiences:
 
-    - title: testtest
     - role: AP Courses/Subjects Taught & Scores
       time: 2014-Present
       company: Private Tutor
