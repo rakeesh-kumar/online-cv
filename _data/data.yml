@@ -30,6 +30,9 @@ sidebar:
 
       - idiom: Tamil
         level: Native
+      
+      - idiom: Spanish
+        level: 
 
    
 
@@ -110,7 +113,7 @@ experiences:
           - Selected as one of eight tutors to aid college students in Pre-Calculus, Calculus I-III, Differential Equations, Probability & Statistics, and Linear Algebra
 
 
-    - role: Mathematics Department TA
+    - role: Machine Learning Researcher
       time: January 2020 - June 2020
       company: New Jersey Institute of Technology Machine Learning Laboratory
       details: |
