@@ -141,10 +141,10 @@ skills:
         level: 95%
 
       - name: R, Linux, bioinformatics packages
-        level: 70%
+        level: 90%
 
-      - name: Probability and Statistics
-        level: 60%
+      - name: Probability and Statistics; Calculus; Linear Algebra; Differential Equations; Linear Algebra
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Rakeesh Kumar
