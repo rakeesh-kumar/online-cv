@@ -34,13 +34,13 @@ sidebar:
    
 
     interests:
-      - item: Teaching/Tutoring
-        link: adnankhalid.com/teaching
-
-      - item: Web Design
-        link: prettypositron.github.io/ncl2/about/#_navigation
-
       - item: Reading
+        link: 
+
+      - item: Fitness
+        link: 
+
+      - item: Soccer
         link: 
 
 career-profile:
@@ -50,7 +50,7 @@ career-profile:
       Machine Learning Researcher and Private Tutor for 20+ subjects/courses interested primarily in the intersection of finance, technology, and mathematics looking to enter the private sector and finance world.
 
 education:
-    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsA
+    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsABC
       university: New York University
       time: 2020 - 2024
       details: |
@@ -102,7 +102,7 @@ experiences:
 
 
 projects:
-    title: ProjectsA
+    title: Projects
     intro: >
 
     assignments:
