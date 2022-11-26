@@ -50,7 +50,7 @@ career-profile:
       Former Scientific Researcher in Machine Learning looking to enter the private sector and finance world. Broad, interdisciplinary experience in research ranging from biomedical to cosmological. Interested primarily in the intersection of medicine, finance, and technology. 
 
 education:
-    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsAAAEEIIIHEHE
+    - degree: Bach. in Computer Science, Bach. in Mathematics, Bach. in EconomicsAAAEEIIIHEHEA
       university: New York University
       time: 2020 - 2024
       details: |
@@ -61,7 +61,7 @@ education:
 
 experiences:
 
-    - role: AP Courses Taught/Subjects Taught
+    - role: AP Courses/Subjects Taught
       time: 2014-Present
       company: Private Tutor
       details: |
@@ -85,6 +85,10 @@ experiences:
           - Linear Algebra
           - Pre-Calculus
           - Spanish
+          
+          
+          
+          * High school subsidized only a certain amount of AP exams for students, those are the ones I ended up taking and all of their scores are listed above.
           
          
     - role: SAT
